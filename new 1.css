@@ -1,0 +1,21 @@
+body {
+	color:#EEEEEE;
+	background-color:#123456;
+	
+}
+table, th, td {
+	background-color:#654321;
+	border:solid 1px black;
+	border-collapse:coll;
+}
+img {
+	width: 30%;
+	height: 30%;
+}
+h1{
+	font-size: 2em;
+	font-family: sans serif;
+}
+p {
+	color: #FFFFFF;
+}
